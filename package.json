@@ -1,5 +1,5 @@
 {
-  "name": "@getskye/engine",
+  "name": "@fyralabs/photon-engine",
   "version": "1.2.0",
   "description": "",
   "main": "dist/index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getskye/engine.git"
+    "url": "git+https://github.com/fyralabs/photonEngine.git"
   },
-  "author": "Innatical LLC",
+  "author": "Fyra Labs <contact@fyralabs.com>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/getskye/engine/issues"
+    "url": "https://github.com/fyralabs/photonEngine/issues"
   },
-  "homepage": "https://github.com/getskye/engine#readme",
+  "homepage": "https://github.com/fyralabs/photonEngine#readme",
   "devDependencies": {
     "@types/node": "^17.0.21",
     "electron": "^17.1.0",
